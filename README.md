@@ -19,7 +19,7 @@
 
 ### :man_technologist: About Me :
 I am a Junior Unity Game Developer:desktop_computer: from Ukraine.
-- I am a Junior Unity Developer with 1.5 years of experience.
+- I am a Junior Unity Developer with 1 year of experience.
 
 - There is no experience in commercial development and team work:worried:.
 
