@@ -1,14 +1,14 @@
 <p align="center"> <img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=360" width="360" height="360"/>
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/maksym-filipyev-28a924280/">
+  <a href="https://www.linkedin.com/in/maksym-filipyev-28a924280/" target="blank">
     <p align="center"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/maksym-filipyev-28a924280/"/>
   </a>
 </div>
 </div>
 
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/maksym-filipyev-28a924280/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maksym-filipyev-28a924280/" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/maksym-filipyev-28a924280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/maksym-filipyev-28a924280/" height="30" width="40" /></a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fmaksym&label=Profile%20views&color=0e75b6&style=flat" alt="fmaksym" /> </p>
