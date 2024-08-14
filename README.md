@@ -4,24 +4,13 @@
 
 [![CV](https://img.shields.io/badge/-CV_QuakeOut_Dev-090909?style=for-the-badge&logo=GoogleMessages)](https://www.notion.so/quakeout-053/Maksym-Filipyev-Certain-View-9e019ee8784f4adc95bc66ba3e318ccc)
 
-<p align="center">
-<a href="https://www.linkedin.com/in/maksym-filipyev-28a924280/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/maksym-filipyev-28a924280/" /></a>
+
+<a href="https://www.linkedin.com/in/maksym-filipyev-28a924280/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/maksym-filipyev-28a924280/" />
+</a>
 <a href="https://www.youtube.com/@quake0ut" target="blank"><img align="center"
  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="quake0ut" height="30" width="40" /></a>
-</p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=fmaksym&label=Profile%20views&color=2ae571&style=flat-square" alt="fmaksym" /> </p>
 
-<h1 align="center">
-  Hi, Welcome to my repository!
-  
-</h1>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="700" height="400"/>
-</div>
-
-</div>
 
 ---
 
@@ -42,4 +31,3 @@ I am a Unity Game Developer with 1,5 year of experience from Ukraine. There is n
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=FMaksym&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
