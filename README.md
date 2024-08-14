@@ -1,4 +1,8 @@
-<p align="center"> <img src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=360" width="360" height="360"/>
+[![QuakeOutDev](https://github.com/FMaksym/FMaksym/blob/main/Logo/Header.png)](https://www.youtube.com/@quake0ut)
+
+## Hi, Welcome to my repository! I'm Unity Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
+[![CV](https://img.shields.io/badge/-CV_QuakeOut_Dev-090909?style=for-the-badge&logo=GoogleMessages)](https://www.notion.so/quakeout-053/Maksym-Filipyev-Certain-View-9e019ee8784f4adc95bc66ba3e318ccc)
 
 <p align="center">
 <a href="https://www.linkedin.com/in/maksym-filipyev-28a924280/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/maksym-filipyev-28a924280/" /></a>
@@ -10,7 +14,7 @@
 
 <h1 align="center">
   Hi, Welcome to my repository!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  
 </h1>
 
 <div align="center">
