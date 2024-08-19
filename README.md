@@ -2,7 +2,7 @@
 
 # Hi, Welcome to my repository! I'm Unity Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-## :man_technologist: About Me :
+## 👨🏻‍💻 About Me :
 I am a Unity Game Developer with 1,5 year of experience from Ukraine. There is no experience in commercial development and team work. I want to learn new things and improve. I'm looking for a team where I can realize my potential and grow as a Unity game developer.
 
 [![CV](https://img.shields.io/badge/-CV_QuakeOut_Dev-657D8B?style=for-the-badge&logo=notion&logoColor=000000)](https://www.notion.so/quakeout-053/Maksym-Filipyev-Certain-View-9e019ee8784f4adc95bc66ba3e318ccc)
@@ -15,7 +15,7 @@ I am a Unity Game Developer with 1,5 year of experience from Ukraine. There is n
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=000000)
 
 
-## Follow Me:
+## 📧 Follow Me:
 [![YouTube](https://img.shields.io/badge/-YouTube-657D8B?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/@quake0ut)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-657D8B?style=for-the-badge&logo=linkedin&logoColor=000000)](https://www.linkedin.com/in/maksym-filipyev-28a924280/)
 
