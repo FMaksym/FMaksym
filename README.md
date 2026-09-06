@@ -3,7 +3,7 @@
 # Hi, Welcome to my repository! I'm Unity Developer <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 ## 👨🏻‍💻 About Me :
-I am a Unity Game Developer with 1,5 year of experience from Ukraine. There is no experience in commercial development and team work. I want to learn new things and improve. I'm looking for a team where I can realize my potential and grow as a Unity game developer.
+I am a Unity Game Developer, Unity Software Engineer from Ukraine!
 
 [![CV](https://img.shields.io/badge/-CV_QuakeOut_Dev-657D8B?style=for-the-badge&logo=notion&logoColor=000000)](https://www.notion.so/quakeout-053/Maksym-Filipyev-Certain-View-9e019ee8784f4adc95bc66ba3e318ccc)
 
